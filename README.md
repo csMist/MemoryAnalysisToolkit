@@ -649,5 +649,6 @@ If you use this library in academic work, please cite:
 
 ---
 
-**Remember**: With great power comes great responsibility. Use this library ethically and legally :).
+**Remember**: With great power comes great responsibility. Use this library ethically and legally.
+
 
